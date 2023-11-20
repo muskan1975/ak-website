@@ -1,6 +1,5 @@
 {
   "name": "aqua-web",
-  "homepage": "http://www.aquawebsite.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

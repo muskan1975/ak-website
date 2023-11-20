@@ -2,7 +2,7 @@
 import Home from "./Components/Home";
 import Advertise from "./Components/Advertise";
 import Navbar from "./Components/Navbar";
-import { Route,Routes } from "react-router-dom";
+import {BrowserRouter as Route,Routes } from "react-router-dom";
 
 
 
